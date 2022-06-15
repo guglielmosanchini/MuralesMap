@@ -50,3 +50,5 @@ st.pydeck_chart(pdk.Deck(
 ))
 
 st.dataframe(df[COLUMNS_TO_DISPLAY].set_index("NAME"))
+
+#ciao
